@@ -4,4 +4,4 @@
 --
 -----------------------------------------------------------------------------------------
 
--- Your code here
+local background = display.newImageRect( 'background.png ',368,570)
